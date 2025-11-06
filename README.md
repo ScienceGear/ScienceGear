@@ -163,6 +163,6 @@ If you like my content and want to support me, consider buying me a coffee! ☕
 
 <br/>
 
-![](https://visitcount.itsvg.in/api?id=ScienceGear&icon=2&color=6)
+![](https://komarev.com/ghpvc/?username=ScienceGear&abbreviated=true)
 
 </div>
