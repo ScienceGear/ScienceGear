@@ -16,7 +16,7 @@
 ```javascript
 const pranay = {
     role: "Full Stack Developer & Content Creator",
-    location: "India 🇮🇳",
+    location: "127.0.0.1 🇮🇳",
     passions: ["Coding", "Tech", "Content Creation"],
     currentFocus: ["Web Development", "AI/ML", "Gen AI", "Game Development"],
     funFact: "Drone Pilot 🚁 | Photographer 📸 | Videographer 🎥",
@@ -55,10 +55,7 @@ const pranay = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,12 +75,12 @@ const pranay = {
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 ---
 
@@ -139,30 +136,11 @@ const pranay = {
 
 ---
 
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-> 🔔 Subscribe to my channel for coding tutorials and tech content!
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Profile Views
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=ScienceGear&icon=2&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -189,5 +167,9 @@ If you like my content and want to support me, consider buying me a coffee! ☕
 **Open for collaborations and exciting projects!**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ScienceGear)
+
+<br/>
+
+![](https://visitcount.itsvg.in/api?id=ScienceGear&icon=2&color=6)
 
 </div>
