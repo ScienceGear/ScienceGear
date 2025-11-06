@@ -1,24 +1,193 @@
-# 💫 About Me:
-🌟 Enthusiastic YouTuber and coder 🎥💻<br>🔍 Passionate about tech for 4-5 years 🚀<br>📈 Completed 30+ projects with coding skills 💡<br>✨ Capturing the world through cinematography 🌏
+<div align="center">
+  <img src="./banner.svg" alt="Banner" width="100%"/>
+</div>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TjtXnYD9SP) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ScienceGearYT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/science_gear) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ScienceGearYT) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/ScienceGearYT?sub_confirmation=1) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=flat&logo=NixOS&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ScienceGear&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ScienceGear&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ScienceGear&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  
+  [![Website](https://img.shields.io/badge/🌐_Website-sciencegear.netlify.app-00C7B7?style=for-the-badge)](https://sciencegear.netlify.app/)
+  [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCYourChannelID?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=FF0000&color=black)](https://www.youtube.com/c/ScienceGearYT?sub_confirmation=1)
+  
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ScienceGear&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sciencegear) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sciencegear) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sciencegear) 
+## 👨‍💻 About Me
 
+```javascript
+const pranay = {
+    role: "Full Stack Developer & Content Creator",
+    location: "India 🇮🇳",
+    passions: ["Coding", "Tech", "Content Creation"],
+    currentFocus: ["Web Development", "AI/ML", "Gen AI", "Game Development"],
+    funFact: "Drone Pilot 🚁 | Photographer 📸 | Videographer 🎥",
+    motto: "Urge to learn everything!"
+};
+```
+
+🌟 **YouTuber** creating coding and tech content  
+🔧 Building projects in **Web Dev, AI/ML, Automation** & exploring **Game Development**  
+🤝 Love **Open Source Contributions**  
+📚 Always learning new languages and technologies  
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
   
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ScienceGearYT?sub_confirmation=1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaytanpure)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/sciencegear)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/science_gear)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ScienceGearYT)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ScienceGearYT)
+[![Website](https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sciencegear.netlify.app/)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+
+### Cloud & Hosting
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+---
+
+## 🛠️ Tools & Software
+
+### Development Environments
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Design & Creative Tools
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+
+### Other Tools
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=ScienceGear&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ScienceGear&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ScienceGear&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=ScienceGear&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+> 🔔 Subscribe to my channel for coding tutorials and tech content!
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📈 Profile Views
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=ScienceGear&icon=2&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+## 💰 Support My Work
+
+<div align="center">
+
+If you like my content and want to support me, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sciencegear)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sciencegear)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sciencegear)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"The urge to learn everything drives innovation"*
+
+**Open for collaborations and exciting projects!**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ScienceGear)
+
+</div>
