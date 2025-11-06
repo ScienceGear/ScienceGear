@@ -5,7 +5,7 @@
 <div align="center">
   
   [![Website](https://img.shields.io/badge/🌐_Website-sciencegear.netlify.app-00C7B7?style=for-the-badge)](https://sciencegear.netlify.app/)
-  [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCYourChannelID?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=FF0000&color=black)](https://www.youtube.com/c/ScienceGearYT?sub_confirmation=1)
+  [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCYourChannelID?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=FF0000&color=black)](https://www.youtube.com/c/ScienceGearYT)
   
 </div>
 
